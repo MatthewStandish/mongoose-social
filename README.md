@@ -58,7 +58,3 @@ N/A
 For additional questions, please contact [mwstandish@aol.com](mailto:mwstandish@aol.com).
 
 Follow me on GitHub at [MatthewStandish](https://github.com/MatthewStandish).
-
-```
-
-```
